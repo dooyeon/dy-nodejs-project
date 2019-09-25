@@ -1,0 +1,11 @@
+
+2019-09-25
+1. express-redis session 적용 테스트
+2. config폴더에 environments.js(redis, server정보) 생성.
+
+TODO.
+1. DB를 redis로 할지 다른 RDB로 관리할지 결정해서 적용해야함  
+2. 로그 처리 추가
+3. server에 express-rate-limit, helmet 등 보안처리 추가  // 요청 수 제한, 헤더 보안
+
+
